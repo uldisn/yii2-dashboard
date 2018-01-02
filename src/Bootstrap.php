@@ -24,7 +24,7 @@ class Bootstrap implements BootstrapInterface
             $app->i18n->translations['dashboard'] = [
                 'class' => 'yii\i18n\PhpMessageSource',
                 'sourceLanguage' => 'en',
-                'basePath' => '@cornernote/dashboard/messages',
+                'basePath' => '@cornernote/dashboard/src/messages',
             ];
         }
     }
