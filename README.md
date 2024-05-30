@@ -1,9 +1,8 @@
 # Yii2 Dashboard
 
+[![Yii2](https://img.shields.io/badge/Powered_by-Yii_Framework-green.svg?style=flat)](https://www.yiiframework.com/)
 [![Latest Version](https://img.shields.io/github/tag/cornernote/yii2-dashboard.svg?style=flat-square&label=release)](https://github.com/cornernote/yii2-dashboard/tags)
 [![Software License](https://img.shields.io/badge/license-BSD-brightgreen.svg?style=flat-square)](LICENSE.md)
-[![Build Status](https://img.shields.io/travis/cornernote/yii2-dashboard/master.svg?style=flat-square)](https://travis-ci.org/cornernote/yii2-dashboard)
-[![HHVM](https://img.shields.io/hhvm/cornernote/yii2-dashboard.svg?style=flat-square)](http://hhvm.h4cc.de/package/cornernote/yii2-dashboard)
 [![Coverage Status](https://img.shields.io/scrutinizer/coverage/g/cornernote/yii2-dashboard.svg?style=flat-square)](https://scrutinizer-ci.com/g/cornernote/yii2-dashboard/code-structure)
 [![Quality Score](https://img.shields.io/scrutinizer/g/cornernote/yii2-dashboard.svg?style=flat-square)](https://scrutinizer-ci.com/g/cornernote/yii2-dashboard)
 [![Total Downloads](https://img.shields.io/packagist/dt/cornernote/yii2-dashboard.svg?style=flat-square)](https://packagist.org/packages/cornernote/yii2-dashboard)
